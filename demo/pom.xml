@@ -57,6 +57,11 @@
       <version>1.79</version>
       <type>jar</type>
     </dependency>
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-controls</artifactId>
+      <version>23.0.1</version>
+    </dependency>
   </dependencies>
 
   <build>
